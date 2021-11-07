@@ -1,0 +1,10 @@
+rvm:
+  - 1.9.3
+  - 2.0.0
+notifications:
+  email:
+    recipients:
+       - jon.phenow@sportngin.com
+    on_success: change
+    on_failure: always
+sudo: false
